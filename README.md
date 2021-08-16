@@ -1,5 +1,4 @@
-*************************************************************
-Simple Fitnezz Website
+             Simple Fitnezz Website
 *************************************************************
 
 This is basic Fitnezz website made by using HTML and CSS.
